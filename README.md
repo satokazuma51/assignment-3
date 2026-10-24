@@ -30,7 +30,7 @@ TrafficSignRecognition/
 └── examples/
 ```
 
-**Important:** The actual dataset ZIPs are *not* bundled into this small source-code ZIP. Copy your two original archives (same names as above) into this folder. The 512 MB+ third ZIP is **not required**.
+
 
 ## 1. Install (Windows PowerShell, Python 3.10–3.12 recommended)
 
